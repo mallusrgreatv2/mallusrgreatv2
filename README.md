@@ -14,4 +14,4 @@
 - [JugBot](https://dsc.gg/jug)
 
 ### Top Languages ↗:
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallusrgreatv2&langs_count=10)
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mallusrgreatv2&langs_count=10&layout=compact)
