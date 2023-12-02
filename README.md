@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mallusrgreatv2" alt="mallusrgreatv2" /></a> </p>
 
-- 🔭 I’m currently working on [Craftilities](https://craftilities.carrd.co)
+- 🔭 I’m currently working on Voting Bot
 
 - 🗣️Technologies **Vite, React, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
 
