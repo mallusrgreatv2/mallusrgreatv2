@@ -5,19 +5,17 @@
 
 - 🔭 I’m currently working on Voting Bot
 
-- 🗣️Technologies **Vite, React, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
+- 🗣️Technologies **React, Next.js, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
 
 - 🌱 I’m currently learning **Discord.js, TypeScript**
 
-- 📫 Email **freedomgamingyt@gmail.com**
+- 📫 Email **mallusrgreat@proton.me**
 
-- ⚡ Fun fact **I started JavaScript, HTML, CSS Coding at age 9.**
+- ⚡ Fun fact **I started web development at age 9.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mallusrgreatv22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mallusrgreatv22" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16222940" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16222940" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mallusrgreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mallusrgreat" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@mallusrgreat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mallusrgreat" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
