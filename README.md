@@ -7,7 +7,7 @@
 
 - 🗣️Technologies **React, Next.js, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
 
-- 🌱 I’m currently learning **Discord.js, TypeScript**
+- 🌱 I’m currently learning **Discord.js, TypeScript, & Next.js**
 
 - 📫 Email **mallusrgreat@proton.me**
 
