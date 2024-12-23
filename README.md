@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=mallusrgreatv2" alt="mallusrgreatv2" /> </p>
 
-- 🔭 I’m currently working on Voting Bot
+- 🔭 I’m currently working on nothing 😕
 
 - 🗣️Technologies **React, Next.js, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
 
