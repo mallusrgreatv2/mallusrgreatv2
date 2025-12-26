@@ -5,13 +5,11 @@
 
 - 🔭 I’m currently working on nothing 😕
 
-- 🗣️Technologies **React, Next.js, TypeScript, Pterodactyl, Ubuntu, Discord.js, Discord.py**
+- 🗣️Technologies **React, Next.js, TypeScript, Pterodactyl, Linux, Discord.js, Discord.py**
 
 - 🌱 I’m currently learning **Discord.js, TypeScript, & Next.js**
 
-- 📫 Email **mallusrgreat@proton.me**
-
-- ⚡ Fun fact **I started web development at age 9.**
+- 📫 Email **mallusrgreat@duck.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
